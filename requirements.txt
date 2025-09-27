@@ -1,0 +1,7 @@
+n
+p
+k
+temperature
+humimity  
+ph
+rainfall
